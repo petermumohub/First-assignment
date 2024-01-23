@@ -1,8 +1,9 @@
-sugar
-salt
-meat
-milk
-energy drink
+    Household Items
+-sugar
+-salt
+-meat
+-milk
+-energy drink
     Fruits
 -tomotoes
 -apple
