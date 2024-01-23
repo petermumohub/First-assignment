@@ -3,5 +3,7 @@ salt
 meat
 milk
 energy drink
-tomotoes
-apple
+    Fruits
+-tomotoes
+-apple
+-grapes
