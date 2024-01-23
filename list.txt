@@ -12,3 +12,7 @@
 -Trouser
 -shirt
 -Socks
+      School
+-pens
+-pencil
+-Rubber
