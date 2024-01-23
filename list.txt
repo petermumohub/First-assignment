@@ -7,3 +7,7 @@ energy drink
 -tomotoes
 -apple
 -grapes
+    Clothes
+-Trouser
+-shirt
+-Socks
