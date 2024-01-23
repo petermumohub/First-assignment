@@ -5,14 +5,14 @@
 -milk
 -energy drink
     Fruits
--tomotoes
+-tomatoes
 -apple
 -grapes
     Clothes
 -Trouser
 -shirt
 -Socks
-      School
+      stationary
 -pens
 -pencil
 -Rubber
